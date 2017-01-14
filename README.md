@@ -4,7 +4,7 @@ __With this program you can train mental arithmetic.__
 
 ## Download
 
-__Download for Win/Linux/Mac: https://github.com/CedricFauth/CaTra-math-training-addition __
+__Download for Win/Linux/Mac: https://github.com/CedricFauth/CaTra-math-training-addition__
 
 ## Information
 
