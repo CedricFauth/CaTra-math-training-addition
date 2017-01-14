@@ -2,6 +2,10 @@
 
 __With this program you can train mental arithmetic.__
 
+## Download
+
+__Download for Win/Linux/Mac: https://github.com/CedricFauth/CaTra-math-training-addition __
+
 ## Information
 
 __1. The program "CaTra.jar" requires a version of Java 8 or higher.__
