@@ -52,7 +52,7 @@ import javax.swing.border.EtchedBorder;
 public class Swing1 extends JFrame {
 	
 	/**
-	 * 
+	 * testing
 	 */
 	private static final long serialVersionUID = -8194450516192069288L;
 	
